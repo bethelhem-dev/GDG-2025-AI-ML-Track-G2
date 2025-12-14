@@ -1,0 +1,50 @@
+QUESTIONS
+
+Identify one real-world problem from daily life that can be solved using Machine Learning and describe it in one sentence.
+
+Classify the type of Machine Learning used:
+
+Supervised Learning
+
+Unsupervised Learning
+
+Reinforcement Learning
+
+Explain why in 2–3 sentences.
+
+Outline the Machine Learning workflow for this problem.
+
+Identify one possible failure point of the ML system and explain how to fix it.
+
+
+ANSWERS
+1. ML Problem
+
+Predicting whether an email is spam or not based on its content.
+
+2. ML Type
+
+Supervised Learning
+
+Explanation:
+This problem uses labeled data where emails are already marked as “spam” or “not spam.”
+The model learns patterns from these labeled examples and uses them to classify new emails.
+
+3. ML Workflow
+
+Collect labeled email data (spam and non-spam).
+
+Clean and preprocess the text data.
+
+Extract features (keywords, frequency, etc.).
+
+Train a supervised ML model.
+
+Evaluate the model and deploy it.
+
+4. Possible Failure Point
+
+Noisy data
+
+How to fix it:
+Clean the dataset by removing irrelevant words, duplicates, and incorrect labels, and apply proper text preprocessing techniques.
