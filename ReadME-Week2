@@ -1,0 +1,19 @@
+# Week 2 Mini Project: Simple scikit-learn Predictor
+
+## Project Description
+Predicting test scores from study hours using linear regression.
+
+## Results
+- **Intercept:** 50.94
+- **Coefficient:** 4.78 (each study hour adds ~4.78 points)
+- **MSE:** 16.34
+- **MAE:** 2.96
+
+## How to Run
+Open `Week2-MiniProject.ipynb` in Kaggle, Google Colab, or Jupyter Notebook.
+
+## Dependencies
+- scikit-learn
+- pandas
+- numpy
+- matplotlib
